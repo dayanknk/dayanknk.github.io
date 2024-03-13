@@ -1,0 +1,29 @@
+header{display: flex;}
+img{width: 100%;}
+#fondo{background-color: beige;}
+#menu { list-style: none;margin: 0;padding: 0; float: left; display: flex;text-emphasis: none;;
+}
+#opcion{color: rgb(7, 53, 32);
+    text-decoration: none;
+     padding: 12px 26px; 
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 18px;
+    margin: 0%;background-color: rgb(199, 112, 202);
+    display: block;
+    border-radius: 17px;
+    border: 3px solid rgb(123, 8, 92);}
+    #janb{background-color: rgb(208, 155, 213);
+         text-align: center; font-size: medium;}
+    #titulo{font-family: fantasy;
+         text-align: center;
+         font-size: x-large;}
+    #plato{background-color: lightpink;
+         margin: 20px; border-radius: 17px;
+         border: 5px solid bisque;}
+    #postre{background-color: rgb(245, 182, 255); 
+        margin: 20px;
+        border-radius: 17px;
+         border:5px solid rgb(196, 242, 255);;}
+    #ensalada{text-align: center;}
+    #flan{text-align: center;}
+  
